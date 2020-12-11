@@ -64,6 +64,14 @@ h2{
 	position:relative;
 }
 
+.top-nav ul li a{
+	text-decoration: none;
+}	
+
+.top-nav li a{
+	text-decoration: none;
+}
+
 .top-nav ul li:hover{
 	left: 4px;
 }
